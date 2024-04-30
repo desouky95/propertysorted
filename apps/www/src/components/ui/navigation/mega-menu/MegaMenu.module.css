@@ -1,0 +1,13 @@
+@value notSelected from  "../../inputs//mega-input/MegaInput.module.css";
+
+.megaMenu {
+  @apply rounded-[32px] [--round:32px] sm:h-16 flex shadow-md border border-solid border-slate-100 pointer-events-none;
+}
+
+.megaMenu.hasActive {
+  @apply bg-slate-100;
+}
+
+.megaMenu:has(:global(.notSelected):hover) {
+  @apply bg-slate-200;
+}

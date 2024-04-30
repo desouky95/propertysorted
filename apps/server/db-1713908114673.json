@@ -1,0 +1,446 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "Mountain View October Park",
+      "nameAr": "ماونتن فيو أكتوبر بارك",
+      "location": {
+        "lat": 29.983711,
+        "lon": 31.079003
+      },
+      "concatName": "Mountain_View_October_Park",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1125000,
+      "rent_price": 2100
+    },
+    {
+      "id": 2,
+      "name": "City View Compound",
+      "nameAr": "كمبوند سيتي فيو",
+      "location": {
+        "lat": 30.014282,
+        "lon": 31.0904529
+      },
+      "concatName": "City_View_Compound",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 820000,
+      "rent_price": 1800
+    },
+    {
+      "id": 3,
+      "name": "Palm Springs Compound",
+      "nameAr": "كمبوند بالم سبرينغز",
+      "location": {
+        "lat": 30.025233,
+        "lon": 31.093127
+      },
+      "concatName": "Palm_Springs_Compound",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1650000,
+      "rent_price": 2900
+    },
+    {
+      "id": 4,
+      "name": "Brix",
+      "nameAr": "بريكس",
+      "location": {
+        "lat": 30.0162555366,
+        "lon": 31.0866605221
+      },
+      "concatName": "Brix",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1750000,
+      "rent_price": 2300
+    },
+    {
+      "id": 5,
+      "name": "Pyramid Hills",
+      "nameAr": "بيراميدز هيلز",
+      "location": {
+        "lat": 30.0077523554,
+        "lon": 31.0930338054
+      },
+      "concatName": "Pyramid_Hills",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 980000,
+      "rent_price": 1500
+    },
+    {
+      "id": 6,
+      "name": "Mountain View Giza Plateau",
+      "nameAr": "ماونتن فيو جيزة بلاتوه",
+      "location": {
+        "lat": 30.018603319,
+        "lon": 31.0845481764
+      },
+      "concatName": "Mountain_View_Giza_Plateau",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1320000,
+      "rent_price": 2500
+    },
+    {
+      "id": 7,
+      "name": "October Park",
+      "nameAr": "أكتوبر بارك",
+      "location": {
+        "lat": 29.9840414593,
+        "lon": 31.0769593527
+      },
+      "concatName": "October_Park",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1450000,
+      "rent_price": 2700
+    },
+    {
+      "id": 8,
+      "name": "Joulz",
+      "nameAr": "جولز",
+      "location": {
+        "lat": 30.0129387281,
+        "lon": 31.0784123513
+      },
+      "concatName": "Joulz",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 960000,
+      "rent_price": 1600
+    },
+    {
+      "id": 9,
+      "name": "Soleya",
+      "nameAr": "سولايا",
+      "location": {
+        "lat": 30.0291083035,
+        "lon": 31.0688535825
+      },
+      "concatName": "Soleya",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1200000,
+      "rent_price": 2000
+    },
+    {
+      "id": 10,
+      "name": "Pyramids Heights",
+      "nameAr": "بيراميدز هايتس",
+      "location": {
+        "lat": 30.0124915286,
+        "lon": 31.07193731
+      },
+      "concatName": "Pyramids_Heights",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1350000,
+      "rent_price": 2200
+    },
+    {
+      "id": 11,
+      "name": "Cairo West",
+      "nameAr": null,
+      "location": {
+        "lat": 30.0207078378,
+        "lon": 31.0707156469
+      },
+      "concatName": "Cairo_West",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1100000,
+      "rent_price": 1900
+    },
+    {
+      "id": 12,
+      "name": "The Crown",
+      "nameAr": "ذا كراون",
+      "location": {
+        "lat": 29.9891828265,
+        "lon": 31.0462026892
+      },
+      "concatName": "The_Crown",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1475000,
+      "rent_price": 2600
+    },
+    {
+      "id": 13,
+      "name": "Palm Hills October",
+      "nameAr": "بالم هيلز",
+      "location": {
+        "lat": 30.0076818281,
+        "lon": 31.035337377
+      },
+      "concatName": "Palm_Hills_October",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 880000,
+      "rent_price": 1700
+    },
+    {
+      "id": 14,
+      "name": "Promenade Residence",
+      "nameAr": "بروميناد ريزيدنس",
+      "location": {
+        "lat": 30.0297998331,
+        "lon": 31.0466821187
+      },
+      "concatName": "Promenade_Residence",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1200000,
+      "rent_price": 2000
+    },
+    {
+      "id": 15,
+      "name": "Rose Ville",
+      "nameAr": null,
+      "location": {
+        "lat": 29.9795230262,
+        "lon": 31.0386200921
+      },
+      "concatName": "Rose_Ville",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 950000,
+      "rent_price": 1600
+    },
+    {
+      "id": 16,
+      "name": "Woodville",
+      "nameAr": null,
+      "location": {
+        "lat": 29.9930754,
+        "lon": 31.0419752
+      },
+      "concatName": "Woodville",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1025000,
+      "rent_price": 1700
+    },
+    {
+      "id": 17,
+      "name": "Palm Hills Golf Extension",
+      "nameAr": "بالم هيلز جولف",
+      "location": {
+        "lat": 29.9954026788,
+        "lon": 31.0349130011
+      },
+      "concatName": "Palm_Hills_Golf_Extension",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1050000,
+      "rent_price": 1800
+    },
+    {
+      "id": 18,
+      "name": "Concordia",
+      "nameAr": null,
+      "location": {
+        "lat": 30.002497768,
+        "lon": 31.0280467437
+      },
+      "concatName": "Concordia",
+      "images": [
+        "/images/Mountain_View_October_Park/1.webp"
+      ],
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 975000,
+      "rent_price": 1600
+    },
+    {
+      "id": 19,
+      "name": "Utopia",
+      "nameAr": "يوتوبيا",
+      "location": {
+        "lat": 30.0047532841,
+        "lon": 31.0261072679
+      },
+      "concatName": "Utopia",
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1325000,
+      "rent_price": 2400
+    },
+    {
+      "id": 20,
+      "name": "Lavande",
+      "nameAr": null,
+      "location": {
+        "lat": 30.0008382988,
+        "lon": 31.0241558405
+      },
+      "concatName": "Lavande",
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1450000,
+      "rent_price": 2500
+    },
+    {
+      "id": 21,
+      "name": "El Khamayel",
+      "nameAr": null,
+      "location": {
+        "lat": 30.026203903,
+        "lon": 31.0277411841
+      },
+      "concatName": "El_Khamayel",
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 880000,
+      "rent_price": 1700
+    },
+    {
+      "id": 22,
+      "name": "New Giza",
+      "nameAr": "نيو جيزة",
+      "location": {
+        "lat": 30.0058746799,
+        "lon": 31.060090529
+      },
+      "concatName": "New_Giza",
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1150000,
+      "rent_price": 1900
+    },
+    {
+      "id": 23,
+      "name": "Amberville",
+      "nameAr": "امبرفيل",
+      "location": {
+        "lat": 30.0043673,
+        "lon": 31.0484488
+      },
+      "concatName": "Amberville",
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1425000,
+      "rent_price": 2200
+    },
+    {
+      "id": 24,
+      "name": "Carnell Park",
+      "nameAr": "كارنل بارك",
+      "location": {
+        "lat": 30.0041779,
+        "lon": 31.0687228
+      },
+      "concatName": "Carnell_Park",
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 925000,
+      "rent_price": 1600
+    },
+    {
+      "id": 25,
+      "name": "Garden Lakes",
+      "nameAr": "جاردن لاك",
+      "location": {
+        "lat": 29.9908602,
+        "lon": 31.0292421
+      },
+      "concatName": "Garden_Lakes",
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1180000,
+      "rent_price": 2100
+    },
+    {
+      "id": 26,
+      "name": "Nyoum Pyramids",
+      "nameAr": "نيوم بيراميدز",
+      "location": {
+        "lat": 30.016452,
+        "lon": 31.095023
+      },
+      "concatName": "Nyoum_Pyramids",
+      "image": "/images/Mountain_View_October_Park/1.webp",
+      "market_sale_price": 1560000,
+      "rent_price": 2700
+    }
+  ],
+  "assets": [
+    {
+      "location_id": 1,
+      "url": "/images/Mountain_View_October_Park/1.webp"
+    },
+    {
+      "location_id": 1,
+      "url": "/images/Mountain_View_October_Park/2.webp"
+    },
+    {
+      "location_id": 1,
+      "url": "/images/Mountain_View_October_Park/1.webp"
+    },
+    {
+      "location_id": 1,
+      "url": "/images/Mountain_View_October_Park/2.webp"
+    },
+    {
+      "location_id": 1,
+      "url": "/images/Mountain_View_October_Park/1.webp"
+    },
+    {
+      "location_id": 1,
+      "url": "/images/Mountain_View_October_Park/2.webp"
+    },
+    {
+      "location_id": 1,
+      "url": "/images/Mountain_View_October_Park/1.webp"
+    },
+    {
+      "location_id": 1,
+      "url": "/images/Mountain_View_October_Park/2.webp"
+    },
+    {
+      "location_id": 1,
+      "url": "/images/Mountain_View_October_Park/1.webp"
+    },
+    {
+      "location_id": 1,
+      "url": "/images/Mountain_View_October_Park/2.webp"
+    },
+    {
+      "location_id": 1,
+      "url": "/images/Mountain_View_October_Park/1.webp"
+    },
+    {
+      "location_id": 1,
+      "url": "/images/Mountain_View_October_Park/2.webp"
+    }
+  ]
+}

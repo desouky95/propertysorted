@@ -1,0 +1,16 @@
+{
+  "name": "property_sorted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "pnpm -r dev",
+    "build": "pnpm --filter propertysorted -r build",
+    "start": "pnpm build & pnpm -r start"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@8.15.6"
+}

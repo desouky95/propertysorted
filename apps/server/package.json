@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx json-server -p 3333 db.json",
+    "dev": "pnpm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "del": "^7.1.0",
+    "gulp-rename": "^2.0.0",
+    "imagemin": "^8.0.1",
+    "json-server": "0.17.4",
+    "through2": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-ext-replace": "^0.3.0",
+    "gulp-imagemin": "^9.0.0",
+    "gulp-webp": "^5.0.0",
+    "imagemin-webp": "^8.0.0"
+  },
+  "type": "module"
+}

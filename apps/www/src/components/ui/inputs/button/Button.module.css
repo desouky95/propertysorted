@@ -1,0 +1,18 @@
+.button {
+  isolation: isolate;
+  @apply appearance-none relative  cursor-pointer bg-transparent text-stone-900 p-3 hover:before:bg-slate-100 z-10 min-w-20;
+}
+
+.button.isIcon {
+  @apply min-w-max;
+}
+.button::before {
+  content: "";
+  @apply absolute rounded-3xl w-full h-full inset-0 -z-[1];
+}
+
+.button .prefixIcon svg {
+  /* width : 16px; */
+  /* height: 16px; */
+  display: block;
+}

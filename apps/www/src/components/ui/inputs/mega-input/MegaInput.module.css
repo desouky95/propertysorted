@@ -1,0 +1,20 @@
+.megaInnerInput {
+  @apply text-sm font-semibold p-0 outline-none border-0 w-full bg-transparent;
+}
+
+.megaInput {
+  @apply h-full rounded-[var(--round)] px-8 py-4 relative bg-white hover:bg-slate-100 cursor-pointer pointer-events-auto;
+}
+
+.megaInputWrapper {
+  @apply pointer-events-auto;
+}
+
+.megaInput.notSelected {
+  @apply bg-slate-100 hover:bg-slate-200;
+  --parent-bg: @apply bg-slate-200;
+}
+
+.megaInput.clicked {
+  @apply bg-white hover:bg-white;
+}

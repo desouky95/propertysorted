@@ -1,0 +1,11 @@
+.likeButton {
+  @apply transition-colors;
+}
+.likeButton.isActive path {
+  @apply fill-primary;
+}
+
+.likeButton path {
+  @apply transition-colors;
+  fill: #00000073;
+}
